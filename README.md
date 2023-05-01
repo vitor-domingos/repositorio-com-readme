@@ -1,7 +1,7 @@
 # Projeto utilizando README
  Projeto inicial com um arquivo README 
 
- [<img src= "./gif microsoft docs.gif" alt="gif da tela inicial do projeto microsoft docs">]  
+ [<img src="./gif microsoft docs.gif" alt="gif da tela inicial do projeto microsoft docs">]  
 
  ## Tecnologias utilizadas
 - HTML
