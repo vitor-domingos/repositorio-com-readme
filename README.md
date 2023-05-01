@@ -12,7 +12,7 @@
 
 ## Como utilizar
 
-1 - Clone o repositório do projeto.
+1 - Clone o repositório do projeto
 ```
 git clone <https://github.com/vitor-domingos/repositorio-com-readme.git>
 ```
@@ -28,7 +28,7 @@ code .
 
 4 - Modifique o projeto
 ```
-- Insira título, subtítulo e gifs.
+- Insira título, subtítulo e gifs
 ```
 
 5 - Hospede o projeto no github da seguinte maneira:
